@@ -81,8 +81,8 @@ I am always eager to learn new technologies, improve my engineering skills, and 
 ---
 
 ## 📫 Contact Me
-- 💼 LinkedIn: [*(add your LinkedIn link here)*](https://www.linkedin.com/in/mohamed-aziz-zairi-3156b8278/)
-- 💻 GitHub: [https://github.com/your-username](https://github.com/mohamedaziz226)
+- 💼 LinkedIn: [*(https://www.linkedin.com/in/mohamed-aziz-zairi-3156b8278/))*]
+- 💻 GitHub: (https://github.com/mohamedaziz226)
 
 ---
 
